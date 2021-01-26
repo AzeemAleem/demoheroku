@@ -1,0 +1,264 @@
+body, html {
+    line-height: 1.5em;
+    font-weight: 400;
+    font-size: 16px;
+}
+a:hover{text-decoration:none!important;}
+div#preview-container {
+    margin: 0 !important;
+    
+}
+
+
+/* mobile nav - start  */
+div#nav-menu-popup {
+    background: #fff;
+    text-transform: uppercase;
+    line-height: 30px;
+}
+span.nav-menu-item-toggle {
+    margin: -2px 10px 0 0;
+}
+#nav-menu-popup .nav-menu .nav-menu-item .nav-menu-item-content .nav-menu-item-toggle i {
+    font-size: 18px !important;
+}
+#nav-menu-popup .nav-menu{
+  padding-top:30px!important;
+}
+#nav-menu-popup .nav-menu li.nav-menu-item {
+    margin: auto;
+    height: 100%!important;
+    text-align: center !important;
+}
+#nav-menu-popup .nav-menu .nav-menu-item a {
+    color: #fff;
+    font-weight: 600;
+}
+.nav-menu-mobile span::before {
+    color: #fff!important;
+    padding: 10px 12px;
+    border-radius: 6px;
+    background: #4a9bd3 ;
+}
+#nav-menu-popup .nav-menu-body .nav-menu .nav-menu-item {
+    background: rgba(73, 155, 211, 1);
+    border-radius: 4px;
+    margin-bottom: 6px;
+    padding: 3px;
+    margin-bottom: 6px;
+}
+#nav-menu-popup .nav-menu-body .close-menu {
+    color: #ececec;
+}
+#nav-menu-popup .nav-menu-body .close-menu:before {
+    color: #4a9bd3 ;
+    border: 1px solid #4a9bd3 ;
+    padding: 9px 12px;
+    border-radius: 50%;   
+}
+/* mobile nav - end  */
+
+
+/* button style */
+[class*='cbutton-']{
+	border-radius: 100px!important;;
+    transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
+    transform-origin: 50% 50% 0px;
+    box-shadow: rgb(153, 153, 153) 0px 0px 0px 0px;
+    font-weight:500 !important;
+}
+/* image hover zoom effect */
+.c-image:hover .image-container img {
+    transform: scale(1.1);
+    -webkit-transition: all .5s;
+    -moz-transition: all .5s;
+    -ms-transition: all .5s;
+    -o-transition: all .5s;
+    transition: all .5s;
+}
+
+/* Top Free Quote button */
+#button-ThBV8G_S2{
+  z-index:9;
+}
+#button-ThBV8G_S2 [class*='cbutton-']:hover{
+background:#e87358;
+}
+
+
+/* Discover The Advantages */
+div#col-WQY1o33IZ .c-paragraph::before{
+    content: '';
+    height: 90px;
+    width: 40px;
+    position: absolute;
+    background-size: 44px !important;
+    background-position: center !important;
+    top: -44px !important;
+    background-repeat: no-repeat !important;
+}
+div#paragraph-NSsTkg92P.c-paragraph::before {
+    background: url(https://cdn.msgsndr.com/location%2FhirCoi8XhLeiyAs4oBH5%2Fimages%2F92a12b38-d894-4d8a-94ae-4e19db8b01ee.svg%2Bxml?alt=media);
+}
+div#paragraph-D_jArnyRL.c-paragraph::before {
+    background: url(https://cdn.msgsndr.com/location%2FhirCoi8XhLeiyAs4oBH5%2Fimages%2F5b259a08-80f3-430a-b58e-ad561041397a.svg%2Bxml?alt=media);
+}
+div#paragraph-bczlfsB0m.c-paragraph::before {
+    background: url(https://cdn.msgsndr.com/location%2FhirCoi8XhLeiyAs4oBH5%2Fimages%2F917a5d38-a4f6-4154-beff-fe7ae87e1e68.svg%2Bxml?alt=media);
+}
+
+/* We Cover The Whole Spectrum */
+#row-OC6qX6kPSE .c-column > .inner{
+    box-shadow: 0 8px 20px 0 rgba(0, 0, 0, 0.06);
+    border-radius: 15px;
+}
+
+/* Why Choose Us Solar Energy */
+div#col-R-ZfeT3BY .c-paragraph::before{
+  content: '';
+  height: 90px;
+  width: 70px;
+  position: absolute;
+  background-size: 65px !important;
+  background-position: center !important;
+  top: -35px !important;
+  background-repeat: no-repeat !important;
+}
+div#paragraph-9zom3G60n.c-paragraph::before {
+    background: url(https://cdn.msgsndr.com/location%2FhirCoi8XhLeiyAs4oBH5%2Fimages%2Fd94668a0-000e-44e3-8efe-b8e5a87e51fe.png?alt=media);
+}
+div#paragraph-I1KHh7t6Y.c-paragraph::before {
+    background: url(https://cdn.msgsndr.com/location%2FhirCoi8XhLeiyAs4oBH5%2Fimages%2Fcddf6e3a-023b-4f62-acd9-82d3d8e33e5a.png?alt=media);
+}
+div#paragraph-DspV4Sm8-.c-paragraph::before {
+    background: url(https://cdn.msgsndr.com/location%2FhirCoi8XhLeiyAs4oBH5%2Fimages%2F90335d79-06a1-4197-89ca-ca5f8b1e3c20.png?alt=media);
+}
+
+div#col-75MIbmf5L .c-paragraph::before{
+  content: '';
+  height: 90px;
+  width: 70px;
+  position: absolute;
+  background-size: 65px !important;
+  background-position: center !important;
+  top: -35px !important;
+  background-repeat: no-repeat !important;
+  right: 0;
+}
+div#paragraph-nQvBiUaUMK.c-paragraph::before {
+    background: url(https://cdn.msgsndr.com/location%2FhirCoi8XhLeiyAs4oBH5%2Fimages%2F3f64cafb-8e3f-466b-969e-6ca3bbaf77ff.png?alt=media);
+}
+div#paragraph-SJowxj_mM7.c-paragraph::before {
+    background: url(https://cdn.msgsndr.com/location%2FhirCoi8XhLeiyAs4oBH5%2Fimages%2F4d4099dd-2402-4682-a4ff-2bc55ac2eb2c.png?alt=media);
+}
+div#paragraph-WsyD5AHnya.c-paragraph::before {
+    background: url(https://cdn.msgsndr.com/location%2FhirCoi8XhLeiyAs4oBH5%2Fimages%2F61110371-aa0e-45be-9c0c-29a913b4a7f5.png?alt=media);
+}
+
+/* Our Incredible Projects */
+div#row-V28sYDG3_t .c-column:hover > .inner::before,
+div#row-fFbZXC1Bq .c-column:hover > .inner::before{
+    background: rgba(29, 53, 113, 0.75);
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 15px;
+    width: 92.5%;
+    height: 100%;
+}
+div#row-V28sYDG3_t .c-column:hover > .inner [class*='heading-'].text-output p,
+div#row-fFbZXC1Bq .c-column:hover > .inner [class*='heading-'].text-output p{
+  color:#fff!important;
+}
+div#row-V28sYDG3_t .c-column:hover > .inner [class*='paragraph-'].text-output p,
+div#row-V28sYDG3_t .c-column:hover > .inner [class*='paragraph-'].text-output p em,
+div#row-fFbZXC1Bq .c-column:hover > .inner [class*='paragraph-'].text-output p,
+div#row-fFbZXC1Bq .c-column:hover > .inner [class*='paragraph-'].text-output p em{
+  color:#fcf05a!important;
+}
+
+/* Why Choose Us Solar Energy */
+div#row-CLqADms2x7 .inner {
+    background-position: left top;
+    background-size: 55px;
+}
+
+/* Affordable Pricing Packages */
+div#heading-kuGQC5Uoi.text-output p strong,
+div#heading-J3Z--AVwn_.text-output p strong,
+div#heading-6ODFhQpiV.text-output p strong{
+    font-size: 50px;
+}
+div#heading-kuGQC5Uoi.text-output::after,
+div#heading-J3Z--AVwn_.text-output::after,
+div#heading-6ODFhQpiV.text-output::after{
+    content: '';
+    position: absolute;
+    border-bottom: 80px solid #ffffff;
+    left: 0px;
+    right: 0;
+    border-top-left-radius: 60%;
+    border-top-right-radius: 60%;
+    bottom: -45px;
+}
+
+/* footer */
+div#image-jw-oiIrgm.image-container,
+div#image-k_7eH27B7.image-container,
+div#image-hnQP6Zcsw.image-container{
+    text-align: left !important;
+}
+div#image-k_7eH27B7.image-container,
+div#image-hnQP6Zcsw.image-container{
+    text-align: left !important;
+}
+
+
+/* Media CSS */
+@media (max-width:768px){
+  div.fullSection {
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+  }
+  /* top banner section */
+  #section-HNOmf62mk {
+    padding:140px 20px 10px 20px!important;
+  }
+  /* Why Choose Us Solar Energy */
+  div#col-75MIbmf5L .c-paragraph::before{
+    left:0;
+  }
+  div#col-75MIbmf5L .c-paragraph .text-output{
+  	padding-left:90px;
+    padding-right:10px;
+    text-align:left;
+  }
+  
+  /* Our Incredible Projects */
+  div#row-V28sYDG3_t{padding-bottom:0;}
+  div#row-fFbZXC1Bq{padding-top:0;}
+  div#row-V28sYDG3_t .c-column > .inner::before,
+  div#row-fFbZXC1Bq .c-column > .inner::before{
+    background: rgba(29, 53, 113, 0.75);
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 93%;
+  }
+  div#row-V28sYDG3_t .c-column > .inner [class*='heading-'].text-output p,
+  div#row-fFbZXC1Bq .c-column > .inner [class*='heading-'].text-output p{
+    color:#fff!important;
+  }
+  div#row-V28sYDG3_t .c-column > .inner [class*='paragraph-'].text-output p,
+  div#row-V28sYDG3_t .c-column > .inner [class*='paragraph-'].text-output p em,
+  div#row-fFbZXC1Bq .c-column > .inner [class*='paragraph-'].text-output p,
+  div#row-fFbZXC1Bq .c-column > .inner [class*='paragraph-'].text-output p em{
+    color:#fcf05a!important;
+  }
+  /* footer social icons */
+  #col-CskAESwbM .inner{
+      margin-top:0;
+  }
+}
